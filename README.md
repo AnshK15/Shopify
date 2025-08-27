@@ -55,47 +55,7 @@ nodemon
 
 
 
-## Screenshots
 
-#### Landing Page
-
-![1](https://github.com/vinayakg04/Rental-Hub/blob/main/frontend/src/Images/4011.PNG)
-
-#### Signup Page
-
-![2](https://github.com/vinayakg04/Rental-Hub/blob/main/frontend/src/Images/4016.PNG)
-
-#### User Home Page
-
-![3](https://github.com/vinayakg04/Rental-Hub/blob/main/frontend/src/Images/4027.PNG)
-
-#### User Profile Page
-
-![4](https://github.com/vinayakg04/Rental-Hub/blob/main/frontend/src/Images/4017.PNG)
-
-#### Product Details Page
-
-![5](https://github.com/vinayakg04/Rental-Hub/blob/main/frontend/src/Images/4019.PNG)
-
-#### About Us Page
-
-![7](https://github.com/vinayakg04/Rental-Hub/blob/main/frontend/src/Images/4018.PNG)
-
-#### Admin Dashboard
-
-![6](https://github.com/vinayakg04/Rental-Hub/blob/main/frontend/src/Images/4023.PNG)
-
-#### Admin All Orders Page
-
-![7](https://github.com/vinayakg04/Rental-Hub/blob/main/frontend/src/Images/4025.PNG)
-
-#### Admin Products Page
-
-![7](https://github.com/vinayakg04/Rental-Hub/blob/main/frontend/src/Images/4026.PNG)
-
-#### Admin All Orders
-
-![7](https://github.com/vinayakg04/Rental-Hub/blob/main/frontend/src/Images/4025.PNG)
 
 
 
