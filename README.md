@@ -1,10 +1,10 @@
 <div align="center">
-  <h1>RENTALHUB</h1>
+  <h1>Shopify</h1>
 </div>
 
-## What is RentalHub?
+## What is Shopify?
 
-RentalHub is your one-stop destination for all your rental needs. Rental Hub is a user-friendly online platform that allows users to conveniently rent a wide range of items, including furniture, televisions, two-wheelers, four-wheelers, clothes, and video games. Whether you're moving into a new place, need a vehicle for a weekend getaway, or simply want to try out the latest gaming console, Rental Hub has you covered.
+Shopify is your one-stop destination for all your rental needs. Shopify is a user-friendly online platform that allows users to conveniently rent a wide range of items, including furniture, televisions, two-wheelers, four-wheelers, clothes, and video games. Whether you're moving into a new place, need a vehicle for a weekend getaway, or simply want to try out the latest gaming console, Rental Hub has you covered.
 
 
 ## What does it do?
@@ -12,7 +12,7 @@ RentalHub is your one-stop destination for all your rental needs. Rental Hub is 
 <ul>
 
 <li>
-Rental Hub offers an extensive selection of rental categories, making it easy for users to find what they need, Whether it be Furniture, Two wheeler, Four Wheeler or telivison We have got all covered.
+Shopify offers an extensive selection of rental categories, making it easy for users to find what they need, Whether it be Furniture, Two wheeler, Four Wheeler or telivison We have got all covered.
 
 </ul>
 
@@ -25,20 +25,20 @@ Rental Hub offers an extensive selection of rental categories, making it easy fo
 
 3. Open the folder containing the cloned repository
 
-4.Clone the repository Rental-Hub
-Go inside Rental-Hub/
+4.Clone the repository Shopify
+Go inside Shopify/
 
 ```sh
 npm install 
 ```
 
-Go inside Rental-Hub/frontend
+Go inside Shopify/frontend
 
 ```sh
 npm install
 ```
 
-To start the project on localhost Go inside Rental-Hub/
+To start the project on localhost Go inside Shopify/
 
 ```sh
 nodemon
